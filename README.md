@@ -1,0 +1,2 @@
+# Rostelekom_authorisation_interface
+Итоговый проект по автоматизации тестирования
